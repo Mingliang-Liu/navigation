@@ -10,4 +10,4 @@ build:
     # 1. 创建一个空的 build/html 目录（RTD 默认寻找这个路径）
     - mkdir -p build/html
     # 2. 将你的静态 HTML 文件复制到该目录下
-    - cp -r html_build/* build/html/
+    - cp -r navigation_html/* build/html/
