@@ -1,0 +1,41 @@
+AI:
+  ChatGPT:
+    url: https://chatgpt.com/
+    desc: OpenAI ChatGPT
+    icon: https://favicon.yandex.net/favicon/chatgpt.com
+  Gemini:
+    url: https://gemini.google.com/app
+    desc: Google Gemini AI
+    icon: https://favicon.yandex.net/favicon/gemini.google.com
+  DeepSeek:
+    url: https://chat.deepseek.com/
+    desc: DeepSeek AI 对话平台
+    icon: https://favicon.yandex.net/favicon/chat.deepseek.com
+  Qwen Chat:
+    url: https://chat.qwen.ai/
+    desc: 通义千问国际版
+    icon: https://favicon.yandex.net/favicon/chat.qwen.ai
+  豆包:
+    url: https://www.doubao.com/chat/
+    desc: 字节跳动 AI 助手
+    icon: https://favicon.yandex.net/favicon/www.doubao.com
+  Kimi:
+    url: https://www.kimi.com/
+    desc: Moonshot AI 推出的 AI 助手
+    icon: https://favicon.yandex.net/favicon/www.kimi.com
+  Grok:
+    url: https://grok.com/
+    desc: xAI 推出的 AI 对话助手
+    icon: https://favicon.yandex.net/favicon/x.com
+  Claude:
+    url: https://claude.ai/new
+    desc: Anthropic 推出的 AI 助手
+    icon: https://favicon.yandex.net/favicon/claude.ai
+  元宝:
+    url: https://yuanbao.tencent.com/
+    desc: 腾讯元宝 AI 助手
+    icon: https://favicon.yandex.net/favicon/yuanbao.tencent.com
+  通义千问:
+    url: https://www.qianwen.com/
+    desc: 阿里巴巴通义千问
+    icon: https://favicon.yandex.net/favicon/www.qianwen.com

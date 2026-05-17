@@ -1,0 +1,22 @@
+{
+  "SITE_TITLE": "LML🧭导航",
+  "SITE_DESCRIPTION": "刘明亮的个人导航站",
+  "COPYRIGHT": "© 2026 <a href='https://github.com/Mingliang-Liu/navigation' target='_blank'>Github</a> | <a href='editor.html'>Editor</a>",
+  "CARD_CONTENT": 0,
+  "SHOW_FAVICON": 1,
+  "DEFAULT_ENGINE": "bing",
+  "SEARCH_ENGINES": [
+    { "name": "Bing", "engine": "bing", "url": "https://www.bing.com/search?q=" },
+    { "name": "Baidu", "engine": "baidu", "url": "https://www.baidu.com/s?wd=" },
+    { "name": "Google", "engine": "google", "url": "https://www.google.com/search?q=" },
+    { "name": "Sogou", "engine": "sogou", "url": "https://www.sogou.com/web?query=" },
+    { "name": "GitHub", "engine": "github", "url": "https://github.com/search?q=" },
+    { "name": "Docker", "engine": "docker", "url": "https://hub.docker.com/search?q=" },
+    { "name": "Google Scholar", "engine": "google_scholar", "url": "https://www.defineabc.com/scholar?q=" },
+    { "name": "Hugging Face", "engine": "huggingface", "url": "https://huggingface.co/search/full-text?q=" },
+    { "name": "Zhihu", "engine": "zhihu", "url": "https://www.zhihu.com/search?type=content&q=" },
+    { "name": "CSDN", "engine": "csdn", "url": "https://so.csdn.net/so/search?q=" },
+    { "name": "YouTube", "engine": "youtube", "url": "https://www.youtube.com/results?search_query=" },
+    { "name": "Douban", "engine": "douban", "url": "https://www.douban.com/search?q=" }
+  ]
+}
