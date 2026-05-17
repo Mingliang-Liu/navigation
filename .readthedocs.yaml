@@ -8,6 +8,6 @@ build:
   # 核心：使用命令自定义构建流程
   commands:
     # 1. 创建一个空的 build/html 目录（RTD 默认寻找这个路径）
-    - mkdir -p build/html
+    - mkdir -p $READTHEDOCS_OUTPUT/html
     # 2. 将你的静态 HTML 文件复制到该目录下
-    - cp -r navigation_html/* build/html/
+    - cp -r navigation_html/* $READTHEDOCS_OUTPUT/html/
