@@ -3,6 +3,8 @@
 ## demo网站
 https://navigation-liumingliang.readthedocs.io
 
+https://raw.githack.com/Mingliang-Liu/navigation/refs/heads/main/navigation_html/index.html
+
 ## 📊 Star 趋势
 [![Star History Chart](https://api.star-history.com/chart?repos=Mingliang-Liu/navigation&type=date&legend=bottom-right)](https://www.star-history.com/?repos=Mingliang-Liu%2Fnavigation&type=date&legend=bottom-right)
 
@@ -32,4 +34,19 @@ cd ..
 2. 注释.gitignore的lib/
 3. 修改navigation_html/data/links.yaml 改为自定义的导航
 4. 修改navigation_html/config.json navigation_html/assets/search 改为自定义的搜索
+
+
+## 强制刷洗RTD CDN缓存
+
+浏览器：
+
+```text
+Ctrl + Shift + R
+```
+
+macOS：
+
+```text
+Cmd + Shift + R
+```
 
