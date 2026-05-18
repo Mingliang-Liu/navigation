@@ -15,6 +15,10 @@ AI:
     url: https://chat.qwen.ai/
     desc: 通义千问国际版
     icon: https://favicon.yandex.net/favicon/chat.qwen.ai
+  Arena AI:
+    url: https://arena.ai/
+    desc: Arena AI
+    icon: https://favicon.yandex.net/favicon/arena.ai
   豆包:
     url: https://www.doubao.com/chat/
     desc: 字节跳动 AI 助手
@@ -39,3 +43,17 @@ AI:
     url: https://www.qianwen.com/
     desc: 阿里巴巴通义千问
     icon: https://favicon.yandex.net/favicon/www.qianwen.com
+
+常用:
+  Google翻译:
+    url: https://translate.google.com/
+    desc: Google 翻译
+    icon: https://favicon.yandex.net/favicon/translate.google.com
+  Google Earth:
+    url: https://earth.google.com/web/
+    desc: Google 地球
+    icon: https://favicon.yandex.net/favicon/earth.google.com
+  Netron:
+    url: https://netron.app/
+    desc: Netron
+    icon: https://favicon.yandex.net/favicon/netron.app

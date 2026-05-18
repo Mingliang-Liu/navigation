@@ -35,9 +35,10 @@ async function loadSiteConfig() {
   siteConfig = config; // 保存配置到全局变量
   
   // 设置页面标题，如果有描述则作为副标题
-  const pageTitle = config.SITE_DESCRIPTION ? 
-    `${config.SITE_TITLE} - ${config.SITE_DESCRIPTION}` : 
-    config.SITE_TITLE;
+  // const pageTitle = config.SITE_DESCRIPTION ? 
+  //   `${config.SITE_TITLE} - ${config.SITE_DESCRIPTION}` : 
+  //   config.SITE_TITLE;
+  const pageTitle = config.SITE_DESCRIPTION;
   document.title = pageTitle;
   
   const h1Element = document.querySelector('header h1');
