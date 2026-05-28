@@ -47,6 +47,30 @@ AI:
     url: https://chat.z.ai/
     desc: 智谱 AI 助手
     icon: https://favicon.yandex.net/favicon/chat.z.ai
+  MiniMax:
+    url: https://agent.minimax.io/
+    desc: MiniMax AI 助手
+    icon: https://favicon.yandex.net/favicon/www.minimax.io
+  Meta AI:
+    url: https://www.meta.ai/
+    desc: Meta AI 助手
+    icon: https://favicon.yandex.net/favicon/www.meta.com
+  文心一言:
+    url: https://yiyan.baidu.com/
+    desc: 百度 AI 助手
+    icon: https://favicon.yandex.net/favicon/yiyan.baidu.com
+  MIMO:
+    url: https://aistudio.xiaomimimo.com/#/c
+    desc: 小米 AI 助手
+    icon: https://favicon.yandex.net/favicon/www.mi.com
+  商量:
+    url: https://chat.sensetime.com/
+    desc: 商汤 AI 助手
+    icon: https://favicon.yandex.net/favicon/chat.sensetime.com
+  书生:
+    url: https://chat.intern-ai.org.cn/
+    desc: 上海人工智能实验室 AI 助手
+    icon: https://favicon.yandex.net/favicon/chat.intern-ai.org.cn
 
 常用:
   Google翻译:
@@ -61,3 +85,25 @@ AI:
     url: https://netron.app/
     desc: Netron
     icon: https://favicon.yandex.net/favicon/netron.app
+
+
+趋势:
+  GitHub Trending:
+    url: https://github.com/trending?since=monthly
+    desc: GitHub 月度热门项目
+    icon: https://favicon.yandex.net/favicon/github.com
+
+  Star History:
+    url: https://www.star-history.com/
+    desc: GitHub Star 历史趋势分析
+    icon: https://favicon.yandex.net/favicon/www.star-history.com
+
+  Trendshift:
+    url: https://trendshift.io/weekly
+    desc: GitHub & AI 项目趋势周榜
+    icon: https://favicon.yandex.net/favicon/trendshift.io
+
+  Hugging Face Papers:
+    url: https://huggingface.co/papers/trending
+    desc: Hugging Face 热门论文趋势
+    icon: https://favicon.yandex.net/favicon/huggingface.co
