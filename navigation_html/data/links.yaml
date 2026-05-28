@@ -43,6 +43,10 @@ AI:
     url: https://www.qianwen.com/
     desc: 阿里巴巴通义千问
     icon: https://favicon.yandex.net/favicon/www.qianwen.com
+  GLM:
+    url: https://chat.z.ai/
+    desc: 智谱 AI 助手
+    icon: https://favicon.yandex.net/favicon/chat.z.ai
 
 常用:
   Google翻译:
