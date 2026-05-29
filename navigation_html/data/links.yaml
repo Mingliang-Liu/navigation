@@ -107,3 +107,8 @@ AI:
     url: https://huggingface.co/papers/trending
     desc: Hugging Face 热门论文趋势
     icon: https://favicon.yandex.net/favicon/huggingface.co
+
+  RS Paper Hub:
+    url: https://rspaper.top/
+    desc: 遥感论文精选
+    icon: https://rspaper.top/asset/logo.png
