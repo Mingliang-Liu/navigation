@@ -83,9 +83,12 @@ AI:
     icon: https://favicon.yandex.net/favicon/earth.google.com
   Netron:
     url: https://netron.app/
-    desc: Netron
+    desc: 神经网络模型可视化
     icon: https://favicon.yandex.net/favicon/netron.app
-
+  Excalidraw:
+    url: https://excalidraw.com/
+    desc: 超好用的在线白板
+    icon: https://favicon.yandex.net/favicon/excalidraw.com
 
 趋势:
   GitHub Trending:
