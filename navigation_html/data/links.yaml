@@ -2,121 +2,177 @@ AI:
   ChatGPT:
     url: https://chatgpt.com/
     desc: OpenAI ChatGPT
-    icon: https://favicon.yandex.net/favicon/chatgpt.com
+    icon: ico/chatgpt.ico
   Gemini:
     url: https://gemini.google.com/app
     desc: Google Gemini AI
-    icon: https://favicon.yandex.net/favicon/gemini.google.com
+    icon: ico/gemini.ico
   DeepSeek:
     url: https://chat.deepseek.com/
     desc: DeepSeek AI 对话平台
-    icon: https://favicon.yandex.net/favicon/chat.deepseek.com
+    icon: ico/deepseek.ico
   Qwen Chat:
     url: https://chat.qwen.ai/
     desc: 通义千问国际版
-    icon: https://favicon.yandex.net/favicon/chat.qwen.ai
+    icon: ico/qwen-chat.ico
   Arena AI:
     url: https://arena.ai/
     desc: Arena AI
-    icon: https://favicon.yandex.net/favicon/arena.ai
+    icon: ico/arena-ai.ico
   豆包:
     url: https://www.doubao.com/chat/
     desc: 字节跳动 AI 助手
-    icon: https://favicon.yandex.net/favicon/www.doubao.com
+    icon: ico/doubao.ico
   Kimi:
     url: https://www.kimi.com/
     desc: Moonshot AI 推出的 AI 助手
-    icon: https://favicon.yandex.net/favicon/www.kimi.com
+    icon: ico/kimi.ico
   Grok:
     url: https://grok.com/
     desc: xAI 推出的 AI 对话助手
-    icon: https://favicon.yandex.net/favicon/x.com
+    icon: ico/grok.ico
   Claude:
     url: https://claude.ai/new
     desc: Anthropic 推出的 AI 助手
-    icon: https://favicon.yandex.net/favicon/claude.ai
+    icon: ico/claude.ico
   元宝:
     url: https://yuanbao.tencent.com/
     desc: 腾讯元宝 AI 助手
-    icon: https://favicon.yandex.net/favicon/yuanbao.tencent.com
+    icon: ico/yuanbao.ico
   通义千问:
     url: https://www.qianwen.com/
     desc: 阿里巴巴通义千问
-    icon: https://favicon.yandex.net/favicon/www.qianwen.com
+    icon: ico/tongyi-qianwen.ico
   GLM:
     url: https://chat.z.ai/
     desc: 智谱 AI 助手
-    icon: https://favicon.yandex.net/favicon/chat.z.ai
+    icon: ico/glm.ico
   MiniMax:
     url: https://agent.minimax.io/
     desc: MiniMax AI 助手
-    icon: https://favicon.yandex.net/favicon/www.minimax.io
+    icon: ico/minimax.ico
   Meta AI:
     url: https://www.meta.ai/
     desc: Meta AI 助手
-    icon: https://favicon.yandex.net/favicon/www.meta.com
+    icon: ico/meta-ai.ico
   文心一言:
     url: https://yiyan.baidu.com/
     desc: 百度 AI 助手
-    icon: https://favicon.yandex.net/favicon/yiyan.baidu.com
+    icon: ico/wenxin-yiyan.ico
   MIMO:
     url: https://aistudio.xiaomimimo.com/#/c
     desc: 小米 AI 助手
-    icon: https://favicon.yandex.net/favicon/www.mi.com
+    icon: ico/mimo.ico
   商量:
     url: https://chat.sensetime.com/
     desc: 商汤 AI 助手
-    icon: https://favicon.yandex.net/favicon/chat.sensetime.com
+    icon: ico/shangliang.ico
   书生:
     url: https://chat.intern-ai.org.cn/
     desc: 上海人工智能实验室 AI 助手
-    icon: https://favicon.yandex.net/favicon/chat.intern-ai.org.cn
+    icon: ico/intern-scribe.ico
+  StepFun:
+    url: https://chat.stepfun.com/chats
+    desc: 阶跃星辰 AI 助手
+    icon: ico/stepfun.ico
+  百小医:
+    url: https://yi.baichuan-ai.com/
+    desc: 百川智能推出的AI家庭医生平台
+    icon: ico/baixiaoyi.ico
+  华为小艺:
+    url: https://xiaoyi.huawei.com/chat/
+    desc: 小艺AI助手网页端
+    icon: ico/xiaoyi.ico
+  LongCat:
+    url: https://longcat.chat/
+    desc: 美团AI对话平台
+    icon: ico/longcat.ico
+  Duck.ai:
+    url: https://duck.ai/
+    desc: DuckDuckGo AI 聊天平台
+    icon: ico/duckai.ico
+  讯飞星火:
+    url: https://xinghuo.xfyun.cn/desk/
+    desc: 科大讯飞AI智能助手
+    icon: ico/xunfei.ico
 
 常用:
   Google翻译:
     url: https://translate.google.com/
     desc: Google 翻译
-    icon: https://favicon.yandex.net/favicon/translate.google.com
+    icon: ico/google-translate.ico
   Google Earth:
     url: https://earth.google.com/web/
     desc: Google 地球
-    icon: https://favicon.yandex.net/favicon/earth.google.com
+    icon: ico/google-earth.ico
   Netron:
     url: https://netron.app/
     desc: 神经网络模型可视化
-    icon: https://favicon.yandex.net/favicon/netron.app
+    icon: ico/netron.ico
   Excalidraw:
     url: https://excalidraw.com/
     desc: 超好用的在线白板
-    icon: https://favicon.yandex.net/favicon/excalidraw.com
+    icon: ico/excalidraw.ico
 
 趋势:
   GitHub Trending:
     url: https://github.com/trending?since=monthly
     desc: GitHub 月度热门项目
-    icon: https://favicon.yandex.net/favicon/github.com
+    icon: ico/github-trending.ico
 
   Star History:
     url: https://www.star-history.com/
     desc: GitHub Star 历史趋势分析
-    icon: https://favicon.yandex.net/favicon/www.star-history.com
+    icon: ico/star-history.ico
 
   Trendshift:
     url: https://trendshift.io/weekly
     desc: GitHub & AI 项目趋势周榜
-    icon: https://favicon.yandex.net/favicon/trendshift.io
+    icon: ico/trendshift.ico
 
   Hugging Face Papers:
     url: https://huggingface.co/papers/trending
     desc: Hugging Face 热门论文趋势
-    icon: https://favicon.yandex.net/favicon/huggingface.co
+    icon: ico/huggingface-papers.ico
 
+论文:
   RS Paper Hub:
     url: https://rspaper.top/
     desc: 遥感论文精选
-    icon: https://rspaper.top/asset/logo.png
+    icon: ico/rs-paper-hub.ico
   
   幻觉翻译:
     url: https://hjfy.top/
     desc: 幻觉翻译
-    icon: https://favicon.yandex.net/favicon/hjfy.top
+    icon: ico/huanjue-translation.ico
+
+AI 导航网站:
+  AI工具集:
+    url: https://ai-bot.cn/
+    desc: 国内外 AI 工具大全
+    icon: https://favicon.yandex.net/favicon/ai-bot.cn
+
+  AI55:
+    url: https://ai55.cc/
+    desc: AI 工具分类导航
+    icon: https://favicon.yandex.net/favicon/ai55.cc
+
+  AIGC:
+    url: https://www.aigc.cn/
+    desc: AIGC 工具与资源导航
+    icon: https://favicon.yandex.net/favicon/aigc.cn
+
+  AI速览:
+    url: https://aisulan.com/
+    desc: AI 工具导航与发现
+    icon: https://favicon.yandex.net/favicon/aisulan.com
+
+  有条工具:
+    url: https://www.util.cn/ai/
+    desc: AI 工具分类导航
+    icon: https://favicon.yandex.net/favicon/util.cn
+
+  There's An AI For That:
+    url: https://theresanaiforthat.com/
+    desc: 全球 AI 工具发现平台
+    icon: https://favicon.yandex.net/favicon/theresanaiforthat.com
